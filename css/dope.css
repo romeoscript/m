@@ -1,0 +1,9 @@
+ body{
+ padding:0px ;
+background-image:url(../../images/fish.jpg);
+background-repeat: no-repeat;  
+margin-top: 0px;
+background-attachment:fixed;
+background-position:center;
+background-size:600px ;
+}
